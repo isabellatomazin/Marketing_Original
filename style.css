@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: black
+}
+
+.header-img {
+    width: 100%;
+}
+
+.primeiro {
+    margin: 0 87px 0 60px;
+}
+
+.h1-primeiro{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #00A857;
+    margin-bottom: 60px;
+}
+
+.h2-primeiro{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    color: #FFFFFF;
+    margin-bottom: 60px;
+}
+
+.p-primeiro{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #FFFFFF;
+    margin-bottom: 60px;
+}
+.beneficio{
+    display: flex;
+    flex-direction: row;
+}
+#beneficio1{
+margin: 77px 137px 41px 30px;
+}
+#beneficio2{
+margin: 41px 87px 30px 30px;
+}
+#beneficio3{
+margin: 30px 71px 30px 30px ;
+}
+#beneficio4{
+margin: 30px 71px 60px 30px ;
+}
+#texto{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    align-self: center;
+    margin-left: 30px;
+
+}
+.imagens{
+    width: 56px;
+    height: 56px;
+    align-self: center;
+
+}
+#segundo{
+    display: flex;
+    flex-direction: column;
+    column-gap: 40px;
+}
+.top-img{
+    width: 600px;
+    height: 131px;
+    left: 0px;
+    top: 844px;
+}
+.imagem1{
+    width: 600px;
+    height: 576px;
+    left: 0px;
+    top: 975px;
+
+}
+.imagem2{
+    width: 600px;
+    height: 272px;
+    left: 0px;
+    top: 1551px;
+}
+.imagem3{
+    width: 540px;
+    height: 96.72px;
+    left: 30px;
+    top: 30px;
+}
+footer{
+    margin: 30px 30px 30.28px 30px;
+    text-align: center;
+}
+.final{
+    font-size: 0;
+    }
+.final1{
+    margin: 30.28px 120px 30px 63px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #00A857;
+}
+.final-img{
+    width: 25px;
+    height: 25px;
+}
